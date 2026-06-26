@@ -36,7 +36,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 
 ### 🔍 SOC, Threat Detection & AI
 - <b>Zero-Day Attack Detection Model from SIEM Logs</b>
-  - [Behavioral Detection via Isolation Forest](https://github.com/KonoZioDa99/your-repo-link) - Sysmon log analysis, Wazuh SIEM integration, dynamic severity scoring, and real-time alerting (2025).
+  - [Behavioral Detection via Isolation Forest](https://github.com/KonoZioDa99/Zero-Day-Attack-Detection-Model-from-SIEM-Logs) - Sysmon log analysis, Wazuh SIEM integration, dynamic severity scoring, and real-time alerting (2025).
 - <b>Mini-SOC Platform</b>
   - [SOC Simulation in Spring Boot](https://github.com/KonoZioDa99/your-repo-link) - Log parsing, brute-force detection, and a secure dashboard (JWT, PostgreSQL) (2025).
 
