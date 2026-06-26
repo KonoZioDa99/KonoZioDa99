@@ -32,7 +32,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
   - <b>IAM & SOC Supervision:</b> Implementation of systematic MFA (F5 APM federated with Keycloak) and real-time centralized alerting using Splunk SIEM.
   - <b>Offensive Validation:</b> Penetration testing campaign demonstrating the complete neutralization of attack vectors (SQLi, XSS, DoS, Brute Force).
 - <b>High Availability Infrastructure</b>
-  - [Redundant Network Deployment with Sophos XGS Firewall](https://github.com/KonoZioDa99/your-repo-link) - Configured automatic failover and performance optimization (2024).
+  - [Redundant Network Deployment with Sophos XGS Firewall](https://github.com/KonoZioDa99/HA-Network-Infrastructure) - Configured automatic failover and performance optimization (2024).
 
 ### 🔍 SOC, Threat Detection & AI
 - <b>Zero-Day Attack Detection Model from SIEM Logs</b>
