@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/KonoZioDa99.png" width="150" height="150" alt="Ziad's Profile Picture" style="border-radius: 50%;" />
-  
   <h1>Hi, I'm Ziad! 👋</h1>
   <h3>Cybersecurity Engineer | Defensive Engineering, SOC & Network Architecture</h3>
 
