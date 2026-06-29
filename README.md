@@ -25,7 +25,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 ## 🛡️ Cybersecurity & Infrastructure Projects
 
 ### 🌐 Network Architecture
-- <b>Design of a Secure Network Infrastructure with Segmentation and Application Protection via F5 and FortiGate with Log Monitoring</b> <i>(Final Year Project)</i>
+- <b>[Design of a Secure Network Infrastructure](https://github.com/KonoZioDa99/Secure-Network-Infrastructure/tree/main) with Segmentation and Application Protection via F5 and FortiGate with Log Monitoring</b> <i>(Final Year Project 2026)</i>
   - <b>L7 Architecture:</b> Deployment of a Zero Trust infrastructure combining L4 segmentation and F5 BIG-IP for load balancing and Web filtering (WAF ASM).
   - <b>IAM & SOC Supervision:</b> Implementation of systematic MFA (F5 APM federated with Keycloak) and real-time centralized alerting using Splunk SIEM.
   - <b>Offensive Validation:</b> Penetration testing campaign demonstrating the complete neutralization of attack vectors (SQLi, XSS, DoS, Brute Force).
@@ -40,7 +40,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 
 ### ⚔️ Offensive Security, Audit & GRC
 - <b>Penetration Testing and Vulnerability Auditing</b>
-  - [Conducted network/web audits](https://github.com/KonoZioDa99/Web-Application-Penetration-Testing/tree/main) and contributed to the AuditCore and Cloudure platforms (GRC, Cloud Security) <i>(Internship Project)</i>.
+  - [Conducted network/web audits](https://github.com/KonoZioDa99/Web-Application-Penetration-Testing/tree/main) and contributed to the AuditCore and Cloudure platforms (GRC, Cloud Security) <i>(Internship Project 2025)</i>.
 - <b>Linux Security Automation</b>
   - [Vulnerability Scanning & Hardening](https://github.com/KonoZioDa99/Vulnerability-Scanning-Hardening/tree/main) - Utilized Lynis and automated CIS Benchmark hardening using Shell & Ansible (2024).
 
@@ -49,10 +49,10 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 ## 💻 Software Development & DevSecOps Projects
 
 - <b>SoukScan – DevSecOps Food App</b>
-  - [Microservices Full-Stack App](https://github.com/KonoZioDa99/SoukScan-DevSecOps-Food-App/tree/main) - Application for monitoring product prices and vendor locations, featuring CI/CD pipelines, containerization, and security integration across the development lifecycle (In progress, 2025).
+  - [Microservices Full-Stack App](https://github.com/KonoZioDa99/SoukScan-DevSecOps-Food-App/tree/main) - Application for monitoring product prices and vendor locations, featuring CI/CD pipelines, containerization, and security integration across the development lifecycle (2025).
 - <b>AI & Computer Vision Applications</b>
   - [Crowd Counting Mobile App](https://github.com/KonoZioDa99/Crowd-Counting-Android-App) - Offline AI-powered Android app using YOLOv8, TensorFlow Lite, and Kotlin (2025).
-  - [Facial Recognition Attendance App](https://github.com/KonoZioDa99/your-repo-link) - Python, OpenCV, and SQLite application to automate employee attendance tracking <i>(Internship Project)</i>.
+  - [Facial Recognition Attendance App](https://github.com/KonoZioDa99/your-repo-link) - Python, OpenCV, and SQLite application to automate employee attendance tracking <i>(Internship Project 2025)</i>.
 
 ---
 
