@@ -40,7 +40,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 
 ### ⚔️ Offensive Security, Audit & GRC
 - <b>Penetration Testing and Vulnerability Auditing</b>
-  - Conducted network/web audits and contributed to the AuditCore and Cloudure platforms (GRC, Cloud Security) <i>(Internship Project)</i>.
+  - [Conducted network/web audits](https://github.com/KonoZioDa99/Web-Application-Penetration-Testing/tree/main) and contributed to the AuditCore and Cloudure platforms (GRC, Cloud Security) <i>(Internship Project)</i>.
 - <b>Linux Security Automation</b>
   - [Vulnerability Scanning & Hardening](https://github.com/KonoZioDa99/Vulnerability-Scanning-Hardening/tree/main) - Utilized Lynis and automated CIS Benchmark hardening using Shell & Ansible (2024).
 
