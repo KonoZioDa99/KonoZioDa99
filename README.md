@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Ziad! 👋</h1>
-  <h3>Cybersecurity Engineer | Defensive Engineering, SOC & Network Architecture</h3>
+  <h3>Cybersecurity Engineer | Defensive Engineering, SOC & Network Security</h3>
 
   <p>
     <a href="https://linkedin.com/in/ziad-kaouak-allah-4322bb305/">
